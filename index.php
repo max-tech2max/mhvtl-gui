@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
-<body>
-
+<head>
+<meta charset="UTF-8">
+<title>Title of the document</title>
 <style type="text/css">
 body {background-color:#cccccc; text-align:center; }
 </style>
+</head>
 
-<iframe src="login.php" width="900" height="575" marginwidth="5" marginheight="2" hspace="2" vspace="2" border="2" frameborder="2" scrolling="auto" >
-  <p>Your browser does not support iframes.</p>
-</iframe>
-
+<body>
+<embed src="login.php" type="application/http" width=900 height=575 />
 </body>
 </html>

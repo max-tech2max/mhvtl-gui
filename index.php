@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Title of the document</title>
+<title>mhVTL Web GUI</title>
 <style type="text/css">
 body {background-color:#cccccc; text-align:center; }
 </style>
